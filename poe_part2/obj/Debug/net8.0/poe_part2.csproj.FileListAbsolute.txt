@@ -28,3 +28,4 @@
 /Users/tshiamo/Desktop/C# Programs/POE3/poe_part2/obj/Debug/net8.0/poe_part2.pdb
 /Users/tshiamo/Desktop/C# Programs/POE3/poe_part2/obj/Debug/net8.0/poe_part2.genruntimeconfig.cache
 /Users/tshiamo/Desktop/C# Programs/POE3/poe_part2/obj/Debug/net8.0/ref/poe_part2.dll
+/Users/tshiamo/Desktop/C# Programs/POE3/poe_part2/obj/Debug/net8.0/poe_part2.sourcelink.json

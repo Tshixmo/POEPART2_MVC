@@ -14,6 +14,7 @@ namespace poe_part2.Models
         public decimal HourlyRate { get; set; }  // The hourly rate of the lecturer
         public string? Status { get; set; }  // Status of the claim (e.g., "Pending", "Approved", "Rejected")
         public string? SupportingDocumentPath { get; set; }  // Path to any supporting document uploaded by the lecturer
+        public string? AdditionalNotes { get; set; }
         public DateTime SubmissionDate { get; set; }  // The date and time the claim was submitted
     }
 }
