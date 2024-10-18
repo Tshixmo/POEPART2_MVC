@@ -1,0 +1,7 @@
+/Users/tshiamo/Desktop/C# Programs/POE3/PoePart2.Tests/obj/Debug/net8.0/PoePart2.Tests.csproj.AssemblyReference.cache
+/Users/tshiamo/Desktop/C# Programs/POE3/PoePart2.Tests/obj/Debug/net8.0/MvcTestingAppManifest.json
+/Users/tshiamo/Desktop/C# Programs/POE3/PoePart2.Tests/obj/Debug/net8.0/PoePart2.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tshiamo/Desktop/C# Programs/POE3/PoePart2.Tests/obj/Debug/net8.0/PoePart2.Tests.AssemblyInfoInputs.cache
+/Users/tshiamo/Desktop/C# Programs/POE3/PoePart2.Tests/obj/Debug/net8.0/PoePart2.Tests.AssemblyInfo.cs
+/Users/tshiamo/Desktop/C# Programs/POE3/PoePart2.Tests/obj/Debug/net8.0/PoePart2.Tests.csproj.CoreCompileInputs.cache
+/Users/tshiamo/Desktop/C# Programs/POE3/PoePart2.Tests/obj/Debug/net8.0/PoePart2.Tests.sourcelink.json
