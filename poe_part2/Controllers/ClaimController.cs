@@ -25,6 +25,12 @@ namespace poe_part2.Controllers
         {
             if (ModelState.IsValid)
             {
+                // Auto-increment ClaimId
+                claim.ClaimId = ClaimStorage.Claims.Count + 1;  // Increment based on existing claims
+
+                // Perform the calculation: Amount = HoursWorked * HourlyRate
+                claim.Amount = claim.HoursWorked * claim.HourlyRate;
+                
                 claim.Status = "Pending";  // Set status to Pending
                 claim.SubmissionDate = DateTime.Now;  // Set submission date
 
