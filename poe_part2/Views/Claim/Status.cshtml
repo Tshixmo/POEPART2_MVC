@@ -21,6 +21,10 @@
                     <td>@claim.Amount</td>
                     <td>@claim.Status</td>
                     <td>@claim.SubmissionDate.ToString("g")</td>
+                    <td>
+                    <!-- "View" button for each claim -->
+                    <a class="btn btn-info" asp-action="ViewClaim" asp-route-id="@claim.ClaimId">View</a>
+                    </td>
                 </tr>
             }
         }

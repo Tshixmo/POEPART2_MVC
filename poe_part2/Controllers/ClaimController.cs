@@ -30,7 +30,7 @@ namespace poe_part2.Controllers
 
                 // Perform the calculation: Amount = HoursWorked * HourlyRate
                 claim.Amount = claim.HoursWorked * claim.HourlyRate;
-                
+
                 claim.Status = "Pending";  // Set status to Pending
                 claim.SubmissionDate = DateTime.Now;  // Set submission date
 
@@ -42,11 +42,24 @@ namespace poe_part2.Controllers
             }
             return View(claim);
         }
+        //GET: View the claim status
+        [HttpGet]
+        public IActionResult ViewClaim(int id)
+        {
+            var claim = ClaimStorage.Claims.FirstOrDefault(c => c.ClaimId == id);
+
+            if (claim == null)
+            {
+                return NotFound();
+            }
+
+            return View(claim);
+        }
 
         // GET: Claim/Status (Lecturer's claim status page)
         public IActionResult Status()
         {
-            var lecturerId = User.Identity?.Name; // Assuming lecturer is authenticated
+            var lecturerId = User.Identity?.Name;
             var claims = ClaimStorage.Claims
                 .Where(c => c.LecturerId == lecturerId) // Get claims for logged-in lecturer
                 .ToList();
