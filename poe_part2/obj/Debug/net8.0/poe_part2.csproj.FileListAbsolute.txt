@@ -13,6 +13,7 @@
 /Users/tshiamo/Desktop/C# Programs/POE3/poe_part2/obj/Debug/net8.0/poe_part2.MvcApplicationPartsAssemblyInfo.cache
 /Users/tshiamo/Desktop/C# Programs/POE3/poe_part2/obj/Debug/net8.0/poe_part2.RazorAssemblyInfo.cache
 /Users/tshiamo/Desktop/C# Programs/POE3/poe_part2/obj/Debug/net8.0/poe_part2.RazorAssemblyInfo.cs
+/Users/tshiamo/Desktop/C# Programs/POE3/poe_part2/obj/Debug/net8.0/poe_part2.sourcelink.json
 /Users/tshiamo/Desktop/C# Programs/POE3/poe_part2/obj/Debug/net8.0/staticwebassets.build.json
 /Users/tshiamo/Desktop/C# Programs/POE3/poe_part2/obj/Debug/net8.0/staticwebassets.development.json
 /Users/tshiamo/Desktop/C# Programs/POE3/poe_part2/obj/Debug/net8.0/staticwebassets/msbuild.poe_part2.Microsoft.AspNetCore.StaticWebAssets.props
@@ -28,4 +29,3 @@
 /Users/tshiamo/Desktop/C# Programs/POE3/poe_part2/obj/Debug/net8.0/poe_part2.pdb
 /Users/tshiamo/Desktop/C# Programs/POE3/poe_part2/obj/Debug/net8.0/poe_part2.genruntimeconfig.cache
 /Users/tshiamo/Desktop/C# Programs/POE3/poe_part2/obj/Debug/net8.0/ref/poe_part2.dll
-/Users/tshiamo/Desktop/C# Programs/POE3/poe_part2/obj/Debug/net8.0/poe_part2.sourcelink.json
